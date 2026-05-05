@@ -18,7 +18,7 @@ It allows researchers to systematically investigate the availability of various 
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv('nnja_era5_full_inventory_v3.csv')
+    df = pd.read_csv('nnja_era5_full_inventory_v4.csv')
     # Using 'mixed' format just to be absolutely safe against any variations
     df['Start_Date'] = pd.to_datetime(df['Start_Date'], format='mixed')
     df['End_Date'] = pd.to_datetime(df['End_Date'], format='mixed')
