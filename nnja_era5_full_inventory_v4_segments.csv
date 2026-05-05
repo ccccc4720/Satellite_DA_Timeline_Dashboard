@@ -1,0 +1,260 @@
+Sensor_Sat,Sensor,Satellite,Start_Date,End_Date,Status,Source_System,Figure_Title,Row_Index,Row_Label,Source_Path,Segment_ID,Confidence,Notes
+HIRS (TIROS-N),HIRS,TIROS-N,1979-08-01,1980-07-01,Both,ERA5,ERA5 satellite observation availability timeline,46,TIROS-N HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (TIROS-N),HIRS,TIROS-N,1980-09-01,1981-08-01,Both,ERA5,ERA5 satellite observation availability timeline,46,TIROS-N HIRS Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (TIROS-N),HIRS,TIROS-N,1978-11-01,1980-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,30,hirs TIROS-N,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-6),HIRS,NOAA-6,1980-01-01,1983-10-01,Both,ERA5,ERA5 satellite observation availability timeline,45,NOAA 6 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-6),HIRS,NOAA-6,1979-05-01,1985-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,31,hirs NOAA 6,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-7),HIRS,NOAA-7,1982-02-01,1985-07-01,Both,ERA5,ERA5 satellite observation availability timeline,44,NOAA 7 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-7),HIRS,NOAA-7,1981-05-01,1985-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,32,hirs NOAA 7,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-8),HIRS,NOAA-8,1983-11-01,1985-01-01,Both,ERA5,ERA5 satellite observation availability timeline,43,NOAA 8 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-8),HIRS,NOAA-8,1983-03-01,1984-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,33,hirs NOAA 8,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-9),HIRS,NOAA-9,1985-08-01,1989-05-01,Both,ERA5,ERA5 satellite observation availability timeline,42,NOAA 9 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-9),HIRS,NOAA-9,1984-10-01,1988-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,34,hirs NOAA 9,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-10),HIRS,NOAA-10,1987-07-01,1992-03-01,Both,ERA5,ERA5 satellite observation availability timeline,41,NOAA 10 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-10),HIRS,NOAA-10,1986-09-01,1991-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,35,hirs NOAA 10,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-11),HIRS,NOAA-11,1989-04-01,1995-07-01,Both,ERA5,ERA5 satellite observation availability timeline,40,NOAA 11 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-11),HIRS,NOAA-11,1998-03-01,2000-10-01,Both,ERA5,ERA5 satellite observation availability timeline,40,NOAA 11 HIRS Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-11),HIRS,NOAA-11,1988-07-01,1995-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,36,hirs NOAA 11,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-11),HIRS,NOAA-11,1997-02-01,1999-11-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,36,hirs NOAA 11,['/hirs/1bhrs2'],2,high,estimated from visible bar pixels
+HIRS (NOAA-12),HIRS,NOAA-12,1992-02-01,1997-11-01,Both,ERA5,ERA5 satellite observation availability timeline,39,NOAA 12 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-12),HIRS,NOAA-12,1991-04-01,1998-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,37,hirs NOAA 12,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-14),HIRS,NOAA-14,1995-10-01,2005-07-01,Both,ERA5,ERA5 satellite observation availability timeline,38,NOAA 14 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-14),HIRS,NOAA-14,1994-08-01,2006-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,38,hirs NOAA 14,['/hirs/1bhrs2'],1,high,estimated from visible bar pixels
+HIRS (NOAA-15),HIRS,NOAA-15,1999-02-01,2000-11-01,Both,ERA5,ERA5 satellite observation availability timeline,37,NOAA 15 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-15),HIRS,NOAA-15,1998-05-01,2008-11-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,39,hirs NOAA 15,['/hirs/1bhrs3'],1,high,estimated from visible bar pixels
+HIRS (NOAA-16),HIRS,NOAA-16,2001-04-01,2004-11-01,Both,ERA5,ERA5 satellite observation availability timeline,36,NOAA 16 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-16),HIRS,NOAA-16,2000-08-01,2013-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,40,hirs NOAA 16,['/hirs/1bhrs3'],1,high,estimated from visible bar pixels
+HIRS (NOAA-17),HIRS,NOAA-17,2003-02-01,2012-07-01,Both,ERA5,ERA5 satellite observation availability timeline,35,NOAA 17 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-17),HIRS,NOAA-17,2001-11-01,2012-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,41,hirs NOAA 17,['/hirs/1bhrs3'],1,high,estimated from visible bar pixels
+HIRS (NOAA-18),HIRS,NOAA-18,2006-01-01,2009-09-01,Both,ERA5,ERA5 satellite observation availability timeline,34,NOAA 18 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-18),HIRS,NOAA-18,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,42,hirs NOAA 18,['/hirs/1bhrs4'],1,low,short tick or sparse mark; estimated from pixels
+HIRS (NOAA-18),HIRS,NOAA-18,2004-11-01,2024-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,42,hirs NOAA 18,['/hirs/1bhrs4'],2,high,estimated from visible bar pixels
+HIRS (NOAA-19),HIRS,NOAA-19,2010-01-01,2014-02-01,Both,ERA5,ERA5 satellite observation availability timeline,32,NOAA 19 HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (NOAA-19),HIRS,NOAA-19,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,45,hirs NOAA 19,['/hirs/1bhrs4'],1,low,short tick or sparse mark; estimated from pixels
+HIRS (NOAA-19),HIRS,NOAA-19,2008-08-01,2024-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,45,hirs NOAA 19,['/hirs/1bhrs4'],2,high,estimated from visible bar pixels
+HIRS (METOP-A),HIRS,METOP-A,2007-08-01,2016-09-01,Both,ERA5,ERA5 satellite observation availability timeline,33,METOP-A HIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+HIRS (METOP-A),HIRS,METOP-A,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,44,hirs METOP-A,['/hirs/1bhrs4'],1,low,short tick or sparse mark; estimated from pixels
+HIRS (METOP-A),HIRS,METOP-A,2006-09-01,2021-03-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,44,hirs METOP-A,['/hirs/1bhrs4'],2,high,estimated from visible bar pixels
+HIRS (METOP-B),HIRS,METOP-B,2015-08-01,2016-01-01,Both,ERA5,ERA5 satellite observation availability timeline,31,METOP-B HIRS Rad.,,1,medium,ERA5 short tick/multicolor mark; source path not shown
+HIRS (METOP-B),HIRS,METOP-B,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,43,hirs METOP-B,['/hirs/1bhrs4'],1,low,short tick or sparse mark; estimated from pixels
+HIRS (METOP-B),HIRS,METOP-B,2009-09-01,2009-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,43,hirs METOP-B,['/hirs/1bhrs4'],2,low,short tick or sparse mark; estimated from pixels
+HIRS (METOP-B),HIRS,METOP-B,2010-04-01,2010-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,43,hirs METOP-B,['/hirs/1bhrs4'],3,low,short tick or sparse mark; estimated from pixels
+HIRS (METOP-B),HIRS,METOP-B,2010-10-01,2010-11-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,43,hirs METOP-B,['/hirs/1bhrs4'],4,low,short tick or sparse mark; estimated from pixels
+HIRS (METOP-B),HIRS,METOP-B,2011-07-01,2011-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,43,hirs METOP-B,['/hirs/1bhrs4'],5,low,short tick or sparse mark; estimated from pixels
+HIRS (METOP-B),HIRS,METOP-B,2012-05-01,2019-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,43,hirs METOP-B,['/hirs/1bhrs4'],6,high,estimated from visible bar pixels
+HIRS (METOP-B),HIRS,METOP-B,2021-10-01,2022-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,43,hirs METOP-B,['/hirs/1bhrs4'],7,high,estimated from visible bar pixels
+MSU (TIROS-N),MSU,TIROS-N,1979-08-01,1981-08-01,Both,ERA5,ERA5 satellite observation availability timeline,78,TIROS-N MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (TIROS-N),MSU,TIROS-N,1978-09-01,1980-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,54,msu TIROS-N,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-6),MSU,NOAA-6,1980-01-01,1983-10-01,Both,ERA5,ERA5 satellite observation availability timeline,77,NOAA 6 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-6),MSU,NOAA-6,1986-04-01,1987-05-01,Both,ERA5,ERA5 satellite observation availability timeline,77,NOAA 6 MSU TOVS1B Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-6),MSU,NOAA-6,1979-05-01,1983-04-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,55,msu NOAA 6,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-6),MSU,NOAA-6,1985-02-01,1986-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,55,msu NOAA 6,['/msu/1bmsu'],2,high,estimated from visible bar pixels
+MSU (NOAA-7),MSU,NOAA-7,1982-01-01,1985-08-01,Both,ERA5,ERA5 satellite observation availability timeline,76,NOAA 7 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-7),MSU,NOAA-7,1981-04-01,1985-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,57,msu NOAA 7,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-8),MSU,NOAA-8,1983-11-01,1985-01-01,Both,ERA5,ERA5 satellite observation availability timeline,75,NOAA 8 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-8),MSU,NOAA-8,1986-02-01,1986-04-01,Both,ERA5,ERA5 satellite observation availability timeline,75,NOAA 8 MSU TOVS1B Rad.,,2,low,ERA5 short tick/multicolor mark; source path not shown
+MSU (NOAA-8),MSU,NOAA-8,1983-03-01,1984-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,58,msu NOAA 8,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-8),MSU,NOAA-8,1985-04-01,1985-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,58,msu NOAA 8,['/msu/1bmsu'],2,medium,short segment; estimated from pixels
+MSU (NOAA-9),MSU,NOAA-9,1985-08-01,1987-09-01,Both,ERA5,ERA5 satellite observation availability timeline,74,NOAA 9 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-9),MSU,NOAA-9,1984-10-01,1988-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,59,msu NOAA 9,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-10),MSU,NOAA-10,1987-07-01,1992-03-01,Both,ERA5,ERA5 satellite observation availability timeline,73,NOAA 10 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-10),MSU,NOAA-10,1986-09-01,1991-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,60,msu NOAA 10,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-11),MSU,NOAA-11,1989-03-01,1995-07-01,Both,ERA5,ERA5 satellite observation availability timeline,72,NOAA 11 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-11),MSU,NOAA-11,1998-03-01,1999-09-01,Both,ERA5,ERA5 satellite observation availability timeline,72,NOAA 11 MSU TOVS1B Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-11),MSU,NOAA-11,1988-08-01,1995-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,61,msu NOAA 11,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-11),MSU,NOAA-11,1997-02-01,1998-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,61,msu NOAA 11,['/msu/1bmsu'],2,high,estimated from visible bar pixels
+MSU (NOAA-12),MSU,NOAA-12,1992-01-01,1997-11-01,Both,ERA5,ERA5 satellite observation availability timeline,71,NOAA 12 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-12),MSU,NOAA-12,1991-04-01,1998-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,62,msu NOAA 12,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+MSU (NOAA-14),MSU,NOAA-14,1995-10-01,2007-03-01,Both,ERA5,ERA5 satellite observation availability timeline,70,NOAA 14 MSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MSU (NOAA-14),MSU,NOAA-14,1994-08-01,2006-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,63,msu NOAA 14,['/msu/1bmsu'],1,high,estimated from visible bar pixels
+SSU (TIROS-N),SSU,TIROS-N,1979-08-01,1981-08-01,Both,ERA5,ERA5 satellite observation availability timeline,30,TIROS-N SSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (TIROS-N),SSU,TIROS-N,1978-10-01,1981-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,90,ssu TIROS-N,['/ssu/1bssu'],1,high,estimated from visible bar pixels
+SSU (NOAA-6),SSU,NOAA-6,1980-01-01,1983-10-01,Both,ERA5,ERA5 satellite observation availability timeline,29,NOAA 6 SSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-6),SSU,NOAA-6,1986-04-01,1987-05-01,Both,ERA5,ERA5 satellite observation availability timeline,29,NOAA 6 SSU TOVS1B Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-6),SSU,NOAA-6,1979-05-01,1983-04-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,91,ssu NOAA 6,['/ssu/1bssu'],1,high,estimated from visible bar pixels
+SSU (NOAA-6),SSU,NOAA-6,1985-02-01,1986-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,91,ssu NOAA 6,['/ssu/1bssu'],2,high,estimated from visible bar pixels
+SSU (NOAA-7),SSU,NOAA-7,1982-01-01,1985-08-01,Both,ERA5,ERA5 satellite observation availability timeline,28,NOAA 7 SSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-7),SSU,NOAA-7,1981-05-01,1985-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,92,ssu NOAA 7,['/ssu/1bssu'],1,high,estimated from visible bar pixels
+SSU (NOAA-8),SSU,NOAA-8,1983-11-01,1985-01-01,Both,ERA5,ERA5 satellite observation availability timeline,27,NOAA 8 SSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-8),SSU,NOAA-8,1986-02-01,1986-04-01,Both,ERA5,ERA5 satellite observation availability timeline,27,NOAA 8 SSU TOVS1B Rad.,,2,low,ERA5 short tick/multicolor mark; source path not shown
+SSU (NOAA-8),SSU,NOAA-8,1983-03-01,1984-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,93,ssu NOAA 8,['/ssu/1bssu'],1,high,estimated from visible bar pixels
+SSU (NOAA-9),SSU,NOAA-9,1985-08-01,1989-05-01,Both,ERA5,ERA5 satellite observation availability timeline,26,NOAA 9 SSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-9),SSU,NOAA-9,1984-10-01,1988-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,94,ssu NOAA 9,['/ssu/1bssu'],1,high,estimated from visible bar pixels
+SSU (NOAA-11),SSU,NOAA-11,1989-03-01,1995-07-01,Both,ERA5,ERA5 satellite observation availability timeline,25,NOAA 11 SSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-11),SSU,NOAA-11,1998-03-01,2003-07-01,Both,ERA5,ERA5 satellite observation availability timeline,25,NOAA 11 SSU TOVS1B Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-11),SSU,NOAA-11,1988-07-01,1995-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,95,ssu NOAA 11,['/ssu/1bssu'],1,high,estimated from visible bar pixels
+SSU (NOAA-11),SSU,NOAA-11,1997-02-01,2001-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,95,ssu NOAA 11,['/ssu/1bssu'],2,high,estimated from visible bar pixels
+SSU (NOAA-11),SSU,NOAA-11,2001-09-01,2004-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,95,ssu NOAA 11,['/ssu/1bssu'],3,high,estimated from visible bar pixels
+SSU (NOAA-14),SSU,NOAA-14,1995-07-01,2006-10-01,Both,ERA5,ERA5 satellite observation availability timeline,24,NOAA 14 SSU TOVS1B Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSU (NOAA-14),SSU,NOAA-14,1994-08-01,2005-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,96,ssu NOAA 14,['/ssu/1bssu'],1,high,estimated from visible bar pixels
+AMSUA (NOAA-15),AMSUA,NOAA-15,1999-02-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,89,NOAA 15 AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (NOAA-15),AMSUA,NOAA-15,1998-05-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,5,amsua NOAA 15,['/amsua/1bamua'],1,high,estimated from visible bar pixels
+AMSUA (NOAA-16),AMSUA,NOAA-16,2001-04-01,2009-11-01,Both,ERA5,ERA5 satellite observation availability timeline,88,NOAA 16 AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (NOAA-16),AMSUA,NOAA-16,2011-07-01,2015-01-01,Both,ERA5,ERA5 satellite observation availability timeline,88,NOAA 16 AMSUA Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (NOAA-16),AMSUA,NOAA-16,2000-05-01,2013-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,6,amsua NOAA 16,['/amsua/1bamua'],1,high,estimated from visible bar pixels
+AMSUA (NOAA-17),AMSUA,NOAA-17,2003-02-01,2004-05-01,Both,ERA5,ERA5 satellite observation availability timeline,87,NOAA 17 AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (NOAA-17),AMSUA,NOAA-17,2002-01-01,2003-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,7,amsua NOAA 17,['/amsua/1bamua'],1,high,estimated from visible bar pixels
+AMSUA (NOAA-18),AMSUA,NOAA-18,2006-01-01,2010-02-01,Both,ERA5,ERA5 satellite observation availability timeline,86,NOAA 18 AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (NOAA-18),AMSUA,NOAA-18,2010-07-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,86,NOAA 18 AMSUA Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (NOAA-18),AMSUA,NOAA-18,2005-01-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,8,amsua NOAA 18,['/amsua/1bamua'],1,high,estimated from visible bar pixels
+AMSUA (NOAA-19),AMSUA,NOAA-19,2010-01-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,85,NOAA 19 AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (NOAA-19),AMSUA,NOAA-19,2008-08-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,10,amsua NOAA 19,['/amsua/1bamua'],1,high,estimated from visible bar pixels
+AMSUA (AQUA),AMSUA,AQUA,2003-07-01,2017-04-01,Both,ERA5,ERA5 satellite observation availability timeline,84,AQUA AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (AQUA),AMSUA,AQUA,2017-08-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,84,AQUA AMSUA Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (AQUA),AMSUA,AQUA,2002-02-01,2022-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,13,amsua AQUA,['/amsua/nasa/aqua'],1,high,estimated from visible bar pixels
+AMSUA (METOP-A),AMSUA,METOP-A,2007-08-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,83,METOP-A AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (METOP-A),AMSUA,METOP-A,2006-09-01,2021-03-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,9,amsua METOP-A,['/amsua/1bamua'],1,high,estimated from visible bar pixels
+AMSUA (METOP-B),AMSUA,METOP-B,2013-07-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,82,METOP-B AMSUA Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUA (METOP-B),AMSUA,METOP-B,2009-09-01,2009-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,11,amsua METOP-B,['/amsua/1bamua'],1,low,short tick or sparse mark; estimated from pixels
+AMSUA (METOP-B),AMSUA,METOP-B,2010-04-01,2010-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,11,amsua METOP-B,['/amsua/1bamua'],2,low,short tick or sparse mark; estimated from pixels
+AMSUA (METOP-B),AMSUA,METOP-B,2010-10-01,2010-11-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,11,amsua METOP-B,['/amsua/1bamua'],3,low,short tick or sparse mark; estimated from pixels
+AMSUA (METOP-B),AMSUA,METOP-B,2011-07-01,2011-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,11,amsua METOP-B,['/amsua/1bamua'],4,low,short tick or sparse mark; estimated from pixels
+AMSUA (METOP-B),AMSUA,METOP-B,2012-05-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,11,amsua METOP-B,['/amsua/1bamua'],5,high,estimated from visible bar pixels
+AMSUA (METOP-C),AMSUA,METOP-C,2019-09-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,81,METOP-C AMSUA Rad.,,1,medium,ERA5 short tick/multicolor mark; source path not shown
+AMSUA (METOP-C),AMSUA,METOP-C,2018-11-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,12,amsua METOP-C,['/amsua/1bamua'],1,high,estimated from visible bar pixels
+AMSUB (NOAA-15),AMSUB,NOAA-15,1998-05-01,2010-09-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,14,amsub NOAA 15,['/amsub/1bamub'],1,high,estimated from visible bar pixels
+AMSUB (NOAA-16),AMSUB,NOAA-16,2001-04-01,2008-03-01,Both,ERA5,ERA5 satellite observation availability timeline,80,NOAA 16 AMSUB Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUB (NOAA-16),AMSUB,NOAA-16,2000-05-01,2013-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,15,amsub NOAA 16,['/amsub/1bamub'],1,high,estimated from visible bar pixels
+AMSUB (NOAA-17),AMSUB,NOAA-17,2003-04-01,2010-05-01,Both,ERA5,ERA5 satellite observation availability timeline,79,NOAA 17 AMSUB Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSUB (NOAA-17),AMSUB,NOAA-17,2002-01-01,2012-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,16,amsub NOAA 17,['/amsub/1bamub'],1,high,estimated from visible bar pixels
+MHS (NOAA-18),MHS,NOAA-18,2006-02-01,2019-04-01,Both,ERA5,ERA5 satellite observation availability timeline,67,MHS NOAA 18 MHS Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MHS (NOAA-18),MHS,NOAA-18,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,49,mhs NOAA 18,['/mhs/1bmhs'],1,low,short tick or sparse mark; estimated from pixels
+MHS (NOAA-18),MHS,NOAA-18,2004-11-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,49,mhs NOAA 18,['/mhs/1bmhs'],2,high,estimated from visible bar pixels
+MHS (NOAA-19),MHS,NOAA-19,2010-01-01,2010-02-01,Both,ERA5,ERA5 satellite observation availability timeline,66,MHS NOAA 19 MHS Rad. All-sky,,1,low,ERA5 short tick/multicolor mark; source path not shown
+MHS (NOAA-19),MHS,NOAA-19,2010-09-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,66,MHS NOAA 19 MHS Rad. All-sky,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MHS (NOAA-19),MHS,NOAA-19,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,52,mhs NOAA 19,['/mhs/1bmhs'],1,low,short tick or sparse mark; estimated from pixels
+MHS (NOAA-19),MHS,NOAA-19,2008-08-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,52,mhs NOAA 19,['/mhs/1bmhs'],2,high,estimated from visible bar pixels
+MHS (METOP-A),MHS,METOP-A,2007-08-01,2014-09-01,Both,ERA5,ERA5 satellite observation availability timeline,65,MHS METOP-A MHS Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MHS (METOP-A),MHS,METOP-A,2015-01-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,65,MHS METOP-A MHS Rad. All-sky,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MHS (METOP-A),MHS,METOP-A,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,51,mhs METOP-A,['/mhs/1bmhs'],1,low,short tick or sparse mark; estimated from pixels
+MHS (METOP-A),MHS,METOP-A,2006-09-01,2021-03-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,51,mhs METOP-A,['/mhs/1bmhs'],2,high,estimated from visible bar pixels
+MHS (METOP-B),MHS,METOP-B,2013-07-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,64,MHS METOP-B MHS Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MHS (METOP-B),MHS,METOP-B,2004-08-01,2004-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,50,mhs METOP-B,['/mhs/1bmhs'],1,low,short tick or sparse mark; estimated from pixels
+MHS (METOP-B),MHS,METOP-B,2009-09-01,2009-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,50,mhs METOP-B,['/mhs/1bmhs'],2,low,short tick or sparse mark; estimated from pixels
+MHS (METOP-B),MHS,METOP-B,2010-04-01,2010-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,50,mhs METOP-B,['/mhs/1bmhs'],3,low,short tick or sparse mark; estimated from pixels
+MHS (METOP-B),MHS,METOP-B,2010-10-01,2010-11-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,50,mhs METOP-B,['/mhs/1bmhs'],4,low,short tick or sparse mark; estimated from pixels
+MHS (METOP-B),MHS,METOP-B,2011-07-01,2011-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,50,mhs METOP-B,['/mhs/1bmhs'],5,low,short tick or sparse mark; estimated from pixels
+MHS (METOP-B),MHS,METOP-B,2012-05-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,50,mhs METOP-B,['/mhs/1bmhs'],6,high,estimated from visible bar pixels
+MHS (METOP-C),MHS,METOP-C,2019-09-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,63,MHS METOP-C MHS Rad. All-sky,,1,medium,ERA5 short tick/multicolor mark; source path not shown
+MHS (METOP-C),MHS,METOP-C,2018-11-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,53,mhs METOP-C,['/mhs/1bmhs'],1,high,estimated from visible bar pixels
+ATMS (NPP),ATMS,NPP,2013-05-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,69,NPP ATMS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+ATMS (NPP),ATMS,NPP,2011-03-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,17,atms NPP,['/atms/atms'],1,high,estimated from visible bar pixels
+CrIS (NPP),CrIS,NPP,2015-08-01,2020-01-01,Both,ERA5,ERA5 satellite observation availability timeline,21,NPP CRIS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+CrIS (NPP),CrIS,NPP,2012-02-01,2019-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,25,cris NPP,['/cris/cris'],1,high,estimated from visible bar pixels
+CrIS (NPP),CrIS,NPP,2017-03-01,2023-04-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,26,cris NPP,['/cris/crisf4'],1,high,estimated from visible bar pixels
+ATMS (NOAA-20),ATMS,NOAA-20,2019-01-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,68,NOAA 20 ATMS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+ATMS (NOAA-20),ATMS,NOAA-20,2017-07-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,18,atms NOAA 20,['/atms/atms'],1,high,estimated from visible bar pixels
+CrIS (NOAA-20),CrIS,NOAA-20,2019-03-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,19,NOAA-20 CRIS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+CrIS (NOAA-20),CrIS,NOAA-20,2017-04-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,27,cris NOAA 20,['/cris/crisf4'],1,high,estimated from visible bar pixels
+ATMS (NOAA-21),ATMS,NOAA-21,2022-09-01,2026-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,19,atms NOAA 21,['/atms/atms'],1,high,estimated from visible bar pixels
+CrIS (NOAA-21),CrIS,NOAA-21,2022-09-01,2026-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,28,cris NOAA 21,['/cris/crisf4'],1,high,estimated from visible bar pixels
+SSMI (DMSP-8),SSMI,DMSP-8,1988-02-01,1992-07-01,Both,ERA5,ERA5 satellite observation availability timeline,59,DMSP 8 SSMI CM SAF All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMI (DMSP-8),SSMI,DMSP-8,1987-03-01,1991-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,73,ssmi DMSP 8,['/ssmi/eumetsat'],1,high,estimated from visible bar pixels
+SSMI (DMSP-10),SSMI,DMSP-10,1991-09-01,1997-11-01,Both,ERA5,ERA5 satellite observation availability timeline,58,DMSP 10 SSMI CM SAF All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMI (DMSP-10),SSMI,DMSP-10,1990-08-01,1997-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,74,ssmi DMSP 10,['/ssmi/eumetsat'],1,high,estimated from visible bar pixels
+SSMI (DMSP-11),SSMI,DMSP-11,2009-08-01,2010-03-01,Both,ERA5,ERA5 satellite observation availability timeline,56,DMSP 11 SSMI All-sky,,1,medium,ERA5 short tick/multicolor mark; source path not shown
+SSMI (DMSP-11),SSMI,DMSP-11,1992-08-01,1994-07-01,Both,ERA5,ERA5 satellite observation availability timeline,57,DMSP 11 SSMI CM SAF All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMI (DMSP-11),SSMI,DMSP-11,1995-07-01,1995-11-01,Both,ERA5,ERA5 satellite observation availability timeline,57,DMSP 11 SSMI CM SAF All-sky,,2,medium,ERA5 short tick/multicolor mark; source path not shown
+SSMI (DMSP-11),SSMI,DMSP-11,1991-08-01,1999-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,75,ssmi DMSP 11,['/ssmi/eumetsat'],1,high,estimated from visible bar pixels
+SSMI (DMSP-11),SSMI,DMSP-11,1991-08-01,2000-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,79,ssmi DMSP 11,['/ssmi/ssmit'],1,high,estimated from visible bar pixels
+SSMI (DMSP-13),SSMI,DMSP-13,1996-01-01,2009-08-01,Both,ERA5,ERA5 satellite observation availability timeline,55,DMSP 13 SSMI CM SAF All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMI (DMSP-13),SSMI,DMSP-13,1995-01-01,2008-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,76,ssmi DMSP 13,['/ssmi/eumetsat'],1,high,estimated from visible bar pixels
+SSMI (DMSP-13),SSMI,DMSP-13,1995-01-01,2009-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,81,ssmi DMSP 13,['/ssmi/ssmit'],1,high,estimated from visible bar pixels
+SSMI (DMSP-14),SSMI,DMSP-14,1997-11-01,2000-10-01,Both,ERA5,ERA5 satellite observation availability timeline,54,DMSP 14 SSMI CM SAF All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMI (DMSP-14),SSMI,DMSP-14,1996-11-01,2008-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,77,ssmi DMSP 14,['/ssmi/eumetsat'],1,high,estimated from visible bar pixels
+SSMI (DMSP-14),SSMI,DMSP-14,1996-11-01,2008-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,80,ssmi DMSP 14,['/ssmi/ssmit'],1,high,estimated from visible bar pixels
+SSMI (DMSP-15),SSMI,DMSP-15,2000-11-01,2007-02-01,Both,ERA5,ERA5 satellite observation availability timeline,53,DMSP 15 SSMI CM SAF All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMI (DMSP-15),SSMI,DMSP-15,1999-07-01,2006-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,78,ssmi DMSP 15,['/ssmi/eumetsat'],1,high,estimated from visible bar pixels
+SSMI (DMSP-15),SSMI,DMSP-15,1999-07-01,2010-03-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,82,ssmi DMSP 15,['/ssmi/ssmit'],1,high,estimated from visible bar pixels
+SSMIS (DMSP-16),SSMIS,DMSP-16,2003-04-01,2026-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,83,ssmis DMSP 16,['/ssmis/eumetsat'],1,high,estimated from visible bar pixels
+SSMIS (DMSP-16),SSMIS,DMSP-16,2003-04-01,2026-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,86,ssmis DMSP 16,['/ssmis/ssmisu'],1,high,estimated from visible bar pixels
+SSMIS (DMSP-17),SSMIS,DMSP-17,2010-04-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,52,DMSP 17 SSMIS Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMIS (DMSP-17),SSMIS,DMSP-17,2006-04-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,84,ssmis DMSP17,['/ssmis/eumetsat'],1,high,estimated from visible bar pixels
+SSMIS (DMSP-17),SSMIS,DMSP-17,2006-05-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,87,ssmis DMSP17,['/ssmis/ssmisu'],1,high,estimated from visible bar pixels
+SSMIS (DMSP-18),SSMIS,DMSP-18,2011-02-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,51,DMSP 18 SSMIS Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SSMIS (DMSP-18),SSMIS,DMSP-18,2009-04-01,2015-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,85,ssmis DMSP18,['/ssmis/eumetsat'],1,high,estimated from visible bar pixels
+SSMIS (DMSP-18),SSMIS,DMSP-18,2009-04-01,2025-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,88,ssmis DMSP18,['/ssmis/ssmisu'],1,high,estimated from visible bar pixels
+SSMIS (DMSP-19),SSMIS,DMSP-19,2010-04-01,2010-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,89,ssmis DMSP-19,['/ssmis/ssmisu'],1,low,short tick or sparse mark; estimated from pixels
+SSMIS (DMSP-19),SSMIS,DMSP-19,2014-10-01,2015-07-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,89,ssmis DMSP-19,['/ssmis/ssmisu'],2,high,estimated from visible bar pixels
+AIRS (AQUA),AIRS,AQUA,2003-04-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,22,AQUA AIRS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AIRS (AQUA),AIRS,AQUA,2002-03-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,1,airs AQUA,['/airs/airsev'],1,high,estimated from visible bar pixels
+AIRS (AQUA),AIRS,AQUA,2002-02-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,2,airs AQUA,['/airs/nasa/aqua'],1,high,estimated from visible bar pixels
+IASI (METOP-A),IASI,METOP-A,2007-09-01,2020-02-01,Both,ERA5,ERA5 satellite observation availability timeline,23,METOP-A IASI Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+IASI (METOP-A),IASI,METOP-A,2007-05-01,2021-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,46,iasi METOP-A,['/iasi/mtiasi'],1,high,estimated from visible bar pixels
+IASI (METOP-B),IASI,METOP-B,2014-08-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,20,METOP-B IASI Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+IASI (METOP-B),IASI,METOP-B,2009-09-01,2009-10-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,47,iasi METOP-B,['/iasi/mtiasi'],1,low,short tick or sparse mark; estimated from pixels
+IASI (METOP-B),IASI,METOP-B,2010-04-01,2010-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,47,iasi METOP-B,['/iasi/mtiasi'],2,low,short tick or sparse mark; estimated from pixels
+IASI (METOP-B),IASI,METOP-B,2010-10-01,2010-11-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,47,iasi METOP-B,['/iasi/mtiasi'],3,low,short tick or sparse mark; estimated from pixels
+IASI (METOP-B),IASI,METOP-B,2011-07-01,2011-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,47,iasi METOP-B,['/iasi/mtiasi'],4,low,short tick or sparse mark; estimated from pixels
+IASI (METOP-B),IASI,METOP-B,2012-05-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,47,iasi METOP-B,['/iasi/mtiasi'],5,high,estimated from visible bar pixels
+IASI (METOP-C),IASI,METOP-C,2019-08-01,2026-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,48,iasi METOP-C,['/iasi/mtiasi'],1,high,estimated from visible bar pixels
+TMI (TRMM),TMI,TRMM,2006-01-01,2015-09-01,Both,ERA5,ERA5 satellite observation availability timeline,49,TRMM TMI Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+TMI (TRMM),TMI,TRMM,1997-08-01,2014-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,97,trmm TRMM,['/trmm/nasa/tmi'],1,high,estimated from visible bar pixels
+AMSRE (AQUA),AMSRE,AQUA,2009-08-01,2009-10-01,Both,ERA5,ERA5 satellite observation availability timeline,50,AQUA AMSRE Rad. All-sky,,1,medium,ERA5 short tick/multicolor mark; source path not shown
+AMSRE (AQUA),AMSRE,AQUA,2010-01-01,2012-04-01,Both,ERA5,ERA5 satellite observation availability timeline,50,AQUA AMSRE Rad. All-sky,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSRE (AQUA),AMSRE,AQUA,2002-02-01,2011-02-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,4,amsre AQUA,['/amsre/nasa'],1,high,estimated from visible bar pixels
+AMSR2 (GCOM-W1),AMSR2,GCOM-W1,2013-03-01,2015-05-01,Both,ERA5,ERA5 satellite observation availability timeline,48,GCOM-W1 AMSR-2 Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSR2 (GCOM-W1),AMSR2,GCOM-W1,2015-10-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,48,GCOM-W1 AMSR-2 Rad. All-sky,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AMSR2 (GCOM-W1),AMSR2,GCOM-W1,2011-11-01,2019-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,3,amsr2 GCOM-W1,['/amsr2/nasa'],1,high,estimated from visible bar pixels
+GMI (GPM-core),GMI,GPM-core,2015-10-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,47,GPM GMI Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+GMI (GPM-core),GMI,GPM-core,2013-07-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,29,gmi GPM-Core,['/gmi/nasa/gmi_v7'],1,high,estimated from visible bar pixels
+SAPHIR (Megha-Tropiques),SAPHIR,Megha-Tropiques,2018-02-01,2019-05-01,Both,ERA5,ERA5 satellite observation availability timeline,60,SAPHIR All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SAPHIR (Megha-Tropiques),SAPHIR,Megha-Tropiques,2019-10-01,2019-11-01,Both,ERA5,ERA5 satellite observation availability timeline,60,SAPHIR All-sky,,2,low,ERA5 short tick/multicolor mark; source path not shown
+SAPHIR (Megha-Tropiques),SAPHIR,Megha-Tropiques,2020-02-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,60,SAPHIR All-sky,,3,low,ERA5 short tick/multicolor mark; source path not shown
+SAPHIR (Megha-Tropiques),SAPHIR,Megha-Tropiques,2016-03-01,2021-03-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,64,saphir Megha-Tropiques,['/saphir/saphir'],1,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-8),SEVIRI,METEOSAT-8,2001-10-01,2004-11-01,Both,ERA5,ERA5 satellite observation availability timeline,13,METEOSAT 8 GEOS Rad. Allsky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SEVIRI (METEOSAT-8),SEVIRI,METEOSAT-8,2007-08-01,2017-08-01,Both,ERA5,ERA5 satellite observation availability timeline,13,METEOSAT 8 GEOS Rad. Allsky,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SEVIRI (METEOSAT-8),SEVIRI,METEOSAT-8,2016-04-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,65,seviri METEOSAT 8,['/seviri/sevasr'],1,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-8),SEVIRI,METEOSAT-8,2016-04-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,71,seviri METEOSAT 8,['/seviri/sevcsr'],1,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2007-10-01,2009-10-01,Both,ERA5,ERA5 satellite observation availability timeline,12,METEOSAT 9 GEOS Rad. Allsky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2010-01-01,2013-08-01,Both,ERA5,ERA5 satellite observation availability timeline,12,METEOSAT 9 GEOS Rad. Allsky,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2006-09-01,2012-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,67,seviri METEOSAT 9,['/seviri/sevasr'],1,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2021-07-01,2025-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,67,seviri METEOSAT 9,['/seviri/sevasr'],2,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2006-09-01,2012-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,69,seviri METEOSAT 9,['/seviri/sevcsr'],1,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2017-05-01,2017-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,69,seviri METEOSAT 9,['/seviri/sevcsr'],2,low,short tick or sparse mark; estimated from pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2018-03-01,2018-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,69,seviri METEOSAT 9,['/seviri/sevcsr'],3,low,short tick or sparse mark; estimated from pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2019-03-01,2019-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,69,seviri METEOSAT 9,['/seviri/sevcsr'],4,low,short tick or sparse mark; estimated from pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2021-02-01,2021-04-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,69,seviri METEOSAT 9,['/seviri/sevcsr'],5,low,short tick or sparse mark; estimated from pixels
+SEVIRI (METEOSAT-9),SEVIRI,METEOSAT-9,2021-07-01,2022-01-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,69,seviri METEOSAT 9,['/seviri/sevcsr'],6,medium,short segment; estimated from pixels
+SEVIRI (METEOSAT-10),SEVIRI,METEOSAT-10,2013-08-01,2018-08-01,Both,ERA5,ERA5 satellite observation availability timeline,11,METEOSAT 10 GEOS Rad. Allsky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SEVIRI (METEOSAT-10),SEVIRI,METEOSAT-10,2012-04-01,2017-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,68,seviri METEOSAT 10,['/seviri/sevasr'],1,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-10),SEVIRI,METEOSAT-10,2022-04-01,2025-07-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,68,seviri METEOSAT 10,['/seviri/sevasr'],2,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-10),SEVIRI,METEOSAT-10,2011-07-01,2011-08-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,70,seviri METEOSAT 10,['/seviri/sevcsr'],1,low,short tick or sparse mark; estimated from pixels
+SEVIRI (METEOSAT-10),SEVIRI,METEOSAT-10,2012-04-01,2017-09-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,70,seviri METEOSAT 10,['/seviri/sevcsr'],2,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-11),SEVIRI,METEOSAT-11,2018-09-01,2020-03-01,Both,ERA5,ERA5 satellite observation availability timeline,10,METEOSAT 11 GEOS Rad. Allsky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+SEVIRI (METEOSAT-11),SEVIRI,METEOSAT-11,2017-08-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,66,seviri METEOSAT 11,['/seviri/sevasr'],1,high,estimated from visible bar pixels
+SEVIRI (METEOSAT-11),SEVIRI,METEOSAT-11,2017-04-01,2026-05-01,Both,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,72,seviri METEOSAT 11,['/seviri/sevcsr'],1,high,estimated from visible bar pixels
+AHI (Himawari-8),AHI,Himawari-8,2016-08-01,2020-03-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,16,Himawari 8 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (GOES-13),Imager,GOES-13,2010-11-01,2018-05-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,4,GOES 13 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (GOES-15),Imager,GOES-15,2012-11-01,2020-02-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,2,GOES 15 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+ABI (GOES-16),ABI,GOES-16,2019-03-01,2020-03-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,1,GOES 16 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+AVHRR (NOAA-15),AVHRR,NOAA-15,1998-05-01,2011-08-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,20,avhrr NOAA 15,['/avhrr/nasa/21cr_repro/avcsam'],1,high,estimated from visible bar pixels
+AVHRR (NOAA-17),AVHRR,NOAA-17,2002-01-01,2012-09-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,21,avhrr NOAA 17,['/avhrr/nasa/21cr_repro/avcsam'],1,high,estimated from visible bar pixels
+AVHRR (METOP-A),AVHRR,METOP-A,2006-10-01,2026-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,22,avhrr METOP-A,['/avhrr/nasa/21cr_repro/avcsam'],1,high,estimated from visible bar pixels
+AVHRR (NOAA-16),AVHRR,NOAA-16,2000-09-01,2005-03-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,23,avhrr NOAA 16,['/avhrr/nasa/21cr_repro/avcspm'],1,high,estimated from visible bar pixels
+AVHRR (NOAA-18),AVHRR,NOAA-18,2004-09-01,2026-05-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,24,avhrr NOAA 18,['/avhrr/nasa/21cr_repro/avcspm'],1,high,estimated from visible bar pixels
+MSU (NOAA-5),MSU,NOAA-5,1979-10-01,1980-01-01,NNJA Only,NNJA,Inventory of NNJA Atmosphere Sensors by Satellite,56,msu NOAA 5,['/msu/1bmsu'],1,low,short tick or sparse mark; estimated from pixels
+Imager (GOES-14),Imager,GOES-14,,,,ERA5,ERA5 satellite observation availability timeline,3,GOES 14 GEOS Rad.,,1,low,no visible bar detected; row retained from y-axis label
+Imager (GOES-12),Imager,GOES-12,2003-10-01,2010-10-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,5,GOES 12 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (GOES-11),Imager,GOES-11,2007-04-01,2008-11-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,6,GOES 11 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (GOES-11),Imager,GOES-11,2009-04-01,2012-07-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,6,GOES 11 GEOS Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (GOES-10),Imager,GOES-10,2002-05-01,2007-01-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,7,GOES 10 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (GOES-9),Imager,GOES-9,2004-01-01,2006-04-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,8,GOES 9 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (GOES-8),Imager,GOES-8,2002-04-01,2003-08-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,9,GOES 8 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+GEOS (METEOSAT-7),GEOS,METEOSAT-7,2001-10-01,2004-11-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,14,METEOSAT 7 GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+GEOS (METEOSAT-7),GEOS,METEOSAT-7,2007-08-01,2017-08-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,14,METEOSAT 7 GEOS Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+GEOS (METEOSAT-5),GEOS,METEOSAT-5,2003-10-01,2004-03-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,15,METEOSAT 5 GEOS Rad.,,1,medium,ERA5 short tick/multicolor mark; source path not shown
+GEOS (METEOSAT-5),GEOS,METEOSAT-5,2004-09-01,2007-08-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,15,METEOSAT 5 GEOS Rad.,,2,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (MTSAT-2),Imager,MTSAT-2,2011-08-01,2012-04-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,17,MTSAT-2 GEOS Rad.,,1,medium,ERA5 short tick/multicolor mark; source path not shown
+Imager (MTSAT-2),Imager,MTSAT-2,2012-07-01,2013-04-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,17,MTSAT-2 GEOS Rad.,,2,medium,ERA5 short tick/multicolor mark; source path not shown
+Imager (MTSAT-2),Imager,MTSAT-2,2013-08-01,2014-04-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,17,MTSAT-2 GEOS Rad.,,3,medium,ERA5 short tick/multicolor mark; source path not shown
+Imager (MTSAT-2),Imager,MTSAT-2,2014-08-01,2015-05-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,17,MTSAT-2 GEOS Rad.,,4,medium,ERA5 short tick/multicolor mark; source path not shown
+Imager (MTSAT-2),Imager,MTSAT-2,2015-08-01,2016-07-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,17,MTSAT-2 GEOS Rad.,,5,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (MTSAT-1R),Imager,MTSAT-1R,2008-07-01,2011-02-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,18,MTSAT-1R GEOS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+Imager (MTSAT-1R),Imager,MTSAT-1R,2012-05-01,2012-07-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,18,MTSAT-1R GEOS Rad.,,2,low,ERA5 short tick/multicolor mark; source path not shown
+Imager (MTSAT-1R),Imager,MTSAT-1R,2013-05-01,2013-07-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,18,MTSAT-1R GEOS Rad.,,3,low,ERA5 short tick/multicolor mark; source path not shown
+Imager (MTSAT-1R),Imager,MTSAT-1R,2014-04-01,2014-07-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,18,MTSAT-1R GEOS Rad.,,4,low,ERA5 short tick/multicolor mark; source path not shown
+MWHS2 (FY-3C),MWHS2,FY-3C,2016-10-01,2018-10-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,61,FY-3C MWHS2 Rad. All-sky,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
+MWHS2 (FY-3C),MWHS2,FY-3C,2019-01-01,2019-09-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,61,FY-3C MWHS2 Rad. All-sky,,2,medium,ERA5 short tick/multicolor mark; source path not shown
+MWHS2 (FY-3C),MWHS2,FY-3C,2019-11-01,2020-03-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,61,FY-3C MWHS2 Rad. All-sky,,3,medium,ERA5 short tick/multicolor mark; source path not shown
+MWHS (FY-3B),MWHS,FY-3B,2013-10-01,2020-03-01,ERA5 Only,ERA5,ERA5 satellite observation availability timeline,62,FY-3B MWHS Rad.,,1,medium,ERA5 multicolor/gray bar extracted from image; source path not shown
