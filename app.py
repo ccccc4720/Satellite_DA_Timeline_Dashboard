@@ -53,7 +53,7 @@ if not filtered_df.empty:
     # Standardized color scheme for assimilation status
     color_map = {
         "Both": "#2ca02c",             # Green: Archived in NNJA & Assimilated in ERA5
-        "ERA5 Only": "#1f4cb4", # Blue: Used in ERA5, not explicitly flagged in NNJA
+        "ERA5 Only": "#4275ed",        # Blue: Used in ERA5, not explicitly flagged in NNJA
         "NNJA Only": "#F59E0B"         # Amber: Archived in NNJA, missing/blacklisted in ERA5
     }
 
