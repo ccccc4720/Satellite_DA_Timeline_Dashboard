@@ -54,7 +54,7 @@ if not filtered_df.empty:
     color_map = {
         "Both": "#2ca02c",             # Green: Archived in NNJA & Assimilated in ERA5
         "ERA5 Assimilated Only": "#1f77b4", # Blue: Used in ERA5, not explicitly flagged in NNJA
-        "NNJA Only": "#d62728"         # Red: Archived in NNJA, missing/blacklisted in ERA5
+        "NNJA Only": "#F59E0B"         # Amber: Archived in NNJA, missing/blacklisted in ERA5
     }
 
     # Generate Gantt Chart using Plotly
